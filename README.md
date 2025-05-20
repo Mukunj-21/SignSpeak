@@ -33,7 +33,7 @@ SignSpeak is an advanced, machine learning-powered application that bridges the 
 
 ### Prerequisites
 
-- Python 3.7+
+- Python 3.10 (Recommended)
 - Webcam or camera device
 - Internet connection (for initial setup)
 
