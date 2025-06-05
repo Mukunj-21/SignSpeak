@@ -1,7 +1,5 @@
 # SignSpeak
 
-# SignSpeak
-
 ![SignSpeak Logo](https://github.com/Mukunj-21/SignSpeak/raw/main/Images/Logo.png)
 
 ## Breaking Communication Barriers: Real-time Sign Language Detection and Translation
