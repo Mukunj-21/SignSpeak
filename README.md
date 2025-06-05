@@ -122,7 +122,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 🙏 Acknowledgments
 
 - [ASL Dataset Contributors](https://www.kaggle.com/datasets/grassknoted/asl-alphabet)
-- Faculty advisors from [University Name]
 - All open-source libraries and tools used in this project
 
 ## 📬 Contact
