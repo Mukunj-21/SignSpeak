@@ -2,7 +2,7 @@
 
 # SignSpeak
 
-![SignSpeak Logo](https://github.com/Mukunj-21/SignSpeak/raw/main/static/img/signspeak_logo.png)
+![SignSpeak Logo](https://github.com/Mukunj-21/SignSpeak/raw/main/Images/Logo.png)
 
 ## Breaking Communication Barriers: Real-time Sign Language Detection and Translation
 
@@ -25,7 +25,7 @@ SignSpeak is an advanced, machine learning-powered application that bridges the 
 ## 🖼️ Screenshots
 
 <div align="center">
-  <img src="https://github.com/Mukunj-21/SignSpeak/raw/main/static/img/app_screenshot.png" alt="SignSpeak Interface" width="600"/>
+  <img src="https://github.com/Mukunj-21/SignSpeak/raw/main/Images/Interface.png" alt="SignSpeak Interface" width="600"/>
   <p><i>SignSpeak Web Interface with Real-time Detection</i></p>
 </div>
 
